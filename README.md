@@ -23,11 +23,10 @@ Nature Harvest is an eco-friendly online marketplace that connects consumers wit
 - Bootstrap <br>
 
 ## 🚀 Deployment 
-- [Live Demo](https://www.passwordgen.xyz/)
+- [Live Demo](https://nature-harvest.vercel.app/)
   
  <br>
 
-![Nature Harvest Screenshot](path/to/screenshot.png)
 
 
 
